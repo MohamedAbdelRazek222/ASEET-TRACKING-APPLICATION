@@ -38,3 +38,9 @@ Maintenance: Log maintenance incidents directly within the application, and trac
 Modify Assets: Modify asset status (e.g., sold, lost, damaged) and submit for managerial approval.
 # Technologies Used:
 Oracle APEX
+
+# IMAGES :
+![asst_tracking_6](https://github.com/user-attachments/assets/e7dc4919-58ed-4670-aa3d-64a30f715810)
+![maintenance_1](https://github.com/user-attachments/assets/dfe2012b-6ec2-4cd9-b5ab-db09a690adea)
+![modify_1](https://github.com/user-attachments/assets/f37fef6c-6146-43df-a5ba-7c880a173353)
+
