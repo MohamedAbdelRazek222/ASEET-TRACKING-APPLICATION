@@ -20,15 +20,19 @@ Asset Tracking:
 
 Record asset details from purchase orders and user documents.
 Manage asset registrations and submission for approval.
+
 Maintenance:
 
 Log incidents and track maintenance history.
 Assign maintenance tasks and categorize repair types.
+
 Asset Modification:
 
 Update the status of assets.
 Submit modifications for approval.
-Usage Instructions:
+
+# Usage Instructions:
+
 Asset Tracking: Add assets by syncing purchase orders, updating relevant fields (e.g., category, location, serial number), and submit for approval.
 Maintenance: Log maintenance incidents directly within the application, and track the history for auditing purposes.
 Modify Assets: Modify asset status (e.g., sold, lost, damaged) and submit for managerial approval.
