@@ -2,7 +2,7 @@
 
 The  Asset Tracking Application is designed to streamline the process of managing and maintaining both CapEx and OpEx assets within an organization. Built using Oracle APEX, this application integrates with Oracle EBS Purchasing and Fixed Assets modules, offering a robust solution for asset monitoring, tracking, and lifecycle management. It enables users to record, update, and track assets, ensuring high levels of security, efficiency, and transparency.
 
-#Key Features:
+# Key Features:
 Asset Tracking and Management: Track all fixed and consumable assets, with detailed records on asset location, category, status, and assignment.
 
 Maintenance Management: Record and track incidents for asset maintenance, with options to categorize internal or external repairs, track spare parts, and maintain a detailed log of all incidents.
@@ -15,7 +15,7 @@ Automated Notifications and Workflows: Notify relevant users and managers of act
 
 Reporting: Generate comprehensive reports on assets by user, maintenance history, and recent changes, with easy extraction of asset details.
 
-#Application Modules:
+# Application Modules:
 Asset Tracking:
 
 Record asset details from purchase orders and user documents.
@@ -32,5 +32,5 @@ Usage Instructions:
 Asset Tracking: Add assets by syncing purchase orders, updating relevant fields (e.g., category, location, serial number), and submit for approval.
 Maintenance: Log maintenance incidents directly within the application, and track the history for auditing purposes.
 Modify Assets: Modify asset status (e.g., sold, lost, damaged) and submit for managerial approval.
-#Technologies Used:
+# Technologies Used:
 Oracle APEX
