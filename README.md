@@ -1,4 +1,4 @@
-# ASEET-TRACKING-APPLICATION
+# ASSET-TRACKING-APPLICATION
 
 The  Asset Tracking Application is designed to streamline the process of managing and maintaining both CapEx and OpEx assets within an organization. Built using Oracle APEX, this application integrates with Oracle EBS Purchasing and Fixed Assets modules, offering a robust solution for asset monitoring, tracking, and lifecycle management. It enables users to record, update, and track assets, ensuring high levels of security, efficiency, and transparency.
 
